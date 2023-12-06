@@ -2,24 +2,27 @@
   "firmwareversions": [
     {
       "version": 0.42,
+      "description": "Some description",
       "model": "NS-DR1",
       "filesize": 56600,
       "releasedDate": "2023-09-02T07:00:00.594Z",
-      "releaseNotes": "This update fixes...."
+      "changelog": "This update fixes...."
     },
     {
       "version": 0.35,
+      "description": "Some description",
       "model": "NS-DR1",
       "filesize": 47600,
       "releasedDate": "2023-06-24T09:11:00.594Z",
-      "releaseNotes": "This update fixes...."
+      "changelog": "This update fixes...."
     },
     {
       "version": 0.31,
+      "description": "Some description",
       "model": "NS-DR1",
       "filesize": 25600,
       "releasedDate": "2022-10-31T09:00:00.594Z",
-      "releaseNotes": "This update fixes...."
+      "changelog": "This update fixes...."
     }
   ],
   "profile": {
