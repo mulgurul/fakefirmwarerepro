@@ -17,6 +17,14 @@
       "changelog": "This update fixes...."
     },
     {
+      "version": 0.17,
+      "description": "Some description",
+      "model": "NS-DR2",
+      "filesize": 47600,
+      "releasedDate": "2023-06-24T09:11:00.594Z",
+      "changelog": "This fix some other bugs...."
+    },
+    {
       "version": 0.31,
       "description": "Some description",
       "model": "NS-DR1",
@@ -25,7 +33,12 @@
       "changelog": "This update fixes...."
     }
   ],
-  "profile": {
-    "name": "neptune"
-  }
+  "models": [
+    {
+      "name": "NS-DR1"
+    },
+    {
+      "name": "NS-DR2"
+    }
+  ]
 }
