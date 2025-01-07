@@ -1,37 +1,38 @@
 {
   "firmwareversions": [
     {
+      "downloadURL": "",
       "version": 0.42,
       "description": "Some description",
-      "model": "NS-DR1",
+      "modelName": "NS-DR1",
+      "modelRevision": "1.0"
       "filesize": 56600,
-      "releasedDate": "2023-09-02T07:00:00.594Z",
-      "changelog": "This update fixes...."
+      "md5Hash": "",
+      "releaseDate": "2023-09-02T07:00:00.594Z",
+      "releaseNotes": "This update fixes...."
     },
     {
-      "version": 0.35,
+      "downloadURL": "",
+      "version": 0.42,
       "description": "Some description",
-      "model": "NS-DR1",
-      "filesize": 47600,
-      "releasedDate": "2023-06-24T09:11:00.594Z",
-      "changelog": "This update fixes...."
+      "modelName": "NS-DR1",
+      "modelRevision": "1.0"
+      "filesize": 56600,
+      "md5Hash": "",
+      "releaseDate": "2023-09-02T07:00:00.594Z",
+      "releaseNotes": "This update fixes...."
     },
     {
-      "version": 0.17,
+      "downloadURL": "",
+      "version": 0.42,
       "description": "Some description",
-      "model": "NS-DR2",
-      "filesize": 47600,
-      "releasedDate": "2023-06-24T09:11:00.594Z",
-      "changelog": "This fix some other bugs...."
+      "modelName": "NS-DR1",
+      "modelRevision": "1.0"
+      "filesize": 56600,
+      "md5Hash": "",
+      "releaseDate": "2023-09-02T07:00:00.594Z",
+      "releaseNotes": "This update fixes...."
     },
-    {
-      "version": 0.31,
-      "description": "Some description",
-      "model": "NS-DR1",
-      "filesize": 25600,
-      "releasedDate": "2022-10-31T09:00:00.594Z",
-      "changelog": "This update fixes...."
-    }
   ],
   "models": [
     {
