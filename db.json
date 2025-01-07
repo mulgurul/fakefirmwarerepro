@@ -1,9 +1,18 @@
 {
   "firmwareversions": [
     {
+      "downloadURL": "https://my-json-server.typicode.com/mulgurul/fakefirmwarerepro/firmwareversions",
+      "version": 0.96,
+      "modelName": "NS-DR1",
+      "modelRevision": "1.0"
+      "filesize": 2510808,
+      "md5Hash": "",
+      "releaseDate": "2024-12-18T19:28:00.594Z",
+      "releaseNotes": "This update fixes...."
+    },
+    {
       "downloadURL": "",
-      "version": 0.42,
-      "description": "Some description",
+      "version": 0.95,
       "modelName": "NS-DR1",
       "modelRevision": "1.0"
       "filesize": 56600,
@@ -13,20 +22,8 @@
     },
     {
       "downloadURL": "",
-      "version": 0.42,
-      "description": "Some description",
-      "modelName": "NS-DR1",
-      "modelRevision": "1.0"
-      "filesize": 56600,
-      "md5Hash": "",
-      "releaseDate": "2023-09-02T07:00:00.594Z",
-      "releaseNotes": "This update fixes...."
-    },
-    {
-      "downloadURL": "",
-      "version": 0.42,
-      "description": "Some description",
-      "modelName": "NS-DR1",
+      "version": 0.105,
+      "modelName": "NS-DR2",
       "modelRevision": "1.0"
       "filesize": 56600,
       "md5Hash": "",
