@@ -1,7 +1,7 @@
 {
   "firmwareversions": [
     {
-      "downloadURL": "https://my-json-server.typicode.com/mulgurul/fakefirmwarerepro/firmwareversions",
+      "downloadURL": "https://github.com/mulgurul/fakefirmwarerepro/raw/refs/heads/main/firmware-nsdr1-1_0-0_96.zip",
       "version": 0.96,
       "modelName": "NS-DR1",
       "modelRevision": "1.0"
