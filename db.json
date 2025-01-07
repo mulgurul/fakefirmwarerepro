@@ -17,10 +17,26 @@
       "releaseNotes": "This update fixes...."
     },
     {
+      "downloadURL": "https://github.com/mulgurul/fakefirmwarerepro/raw/refs/heads/main/firmware-nsdr1-1_0-0_97.zip",
+      "version": {
+        "majorVersion": 0,
+        "minorVersion": 97
+      },
+      "modelName": "NS-DR1",
+      "modelRevision": {
+        "majorVersion": 1,
+        "minorVersion": 0
+      },
+      "filesize": 2510808,
+      "md5Hash": "",
+      "releaseDate": "2024-12-18T19:28:00.594Z",
+      "releaseNotes": "This update fixes...."
+    },
+    {
       "downloadURL": "",
       "version":  {
         "majorVersion": 0,
-        "minorVersion": 95
+        "minorVersion": 94
       },
       "modelName": "NS-DR1",
       "modelRevision": {
