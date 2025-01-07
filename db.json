@@ -2,9 +2,15 @@
   "firmwareversions": [
     {
       "downloadURL": "https://github.com/mulgurul/fakefirmwarerepro/raw/refs/heads/main/firmware-nsdr1-1_0-0_96.zip",
-      "version": 0.96,
+      "version": {
+        "majorVersion": 0,
+        "minorVersion": 96
+      },
       "modelName": "NS-DR1",
-      "modelRevision": "1.0",
+      "modelRevision": {
+        "majorVersion": 1,
+        "minorVersion": 0
+      },
       "filesize": 2510808,
       "md5Hash": "",
       "releaseDate": "2024-12-18T19:28:00.594Z",
@@ -12,9 +18,15 @@
     },
     {
       "downloadURL": "",
-      "version": 0.95,
+      "version":  {
+        "majorVersion": 0,
+        "minorVersion": 95
+      },
       "modelName": "NS-DR1",
-      "modelRevision": "1.0",
+      "modelRevision": {
+        "majorVersion": 1,
+        "minorVersion": 0
+      },
       "filesize": 56600,
       "md5Hash": "",
       "releaseDate": "2023-09-02T07:00:00.594Z",
@@ -22,9 +34,15 @@
     },
     {
       "downloadURL": "",
-      "version": 0.105,
+      "version":  {
+        "majorVersion": 0,
+        "minorVersion": 105
+      },
       "modelName": "NS-DR2",
-      "modelRevision": "1.0",
+      "modelRevision": {
+        "majorVersion": 1,
+        "minorVersion": 0
+      },
       "filesize": 56600,
       "md5Hash": "",
       "releaseDate": "2023-09-02T07:00:00.594Z",
